@@ -4820,7 +4820,6 @@ ashkenazic
 ashkenazim
 ashlar
 ashless
-ashley
 ashmead
 ashmolean
 ashokan
@@ -25114,11 +25113,8 @@ ers
 ersatz
 erscheint
 erse
-erskine
 ersonal
 erst
-erste
-erster
 erstwhile
 ert
 ertebolle
@@ -39022,7 +39018,6 @@ inertialess
 inertially
 inertinite
 inescapable
-iness
 inessential
 inessive
 inestimable
@@ -71973,7 +71968,6 @@ rieh
 riehle
 riel
 riem
-riemann
 riemannian
 rien
 rier
