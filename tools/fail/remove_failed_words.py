@@ -41,7 +41,8 @@ def clean_file(file_path, blacklist):
         return False
 
 def main():
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    # Go up 3 levels: tools/fail/remove_failed_words.py -> tools/fail -> tools -> root
+    base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     blacklist_path = os.path.join(base_dir, 'fail_filter', 'fail1_clean.txt')
     wordlist_dir = os.path.join(base_dir, 'wordlist')
     preprocess_script = os.path.join(base_dir, 'tools', 'preprocess_all.py')
