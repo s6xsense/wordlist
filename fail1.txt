@@ -1,0 +1,10 @@
+Global Failed Words List
+========================
+Date: 2025-12-26
+
+[16:44:50] Player: hubhub1337 | Word: ingrid
+[16:45:50] Player: hubhub1337 | Word: inglis
+[16:46:00] Player: hubhub1337 | Word: ater
+[16:46:29] Player: hubhub1337 | Word: manson
+[16:46:31] Player: hubhub1337 | Word: mansour
+[16:47:35] Player: hubhub1337 | Word: allstar

@@ -4,9 +4,15 @@ import sys
 
 def main():
     # Define directories
+    # Go up 2 levels from tools/preprocess_all.py to project root
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     wordlist_dir = os.path.join(base_dir, 'wordlist')
     tool_path = os.path.join(base_dir, 'tools', 'preprocess_wordlist.py')
+
+    if not os.path.exists(wordlist_dir):
+        print(f"Error: Wordlist directory not found at {wordlist_dir}")
+        print(f"Base dir calculated as: {base_dir}")
+        return
 
     print(f"Scanning {wordlist_dir} for .txt files...")
 

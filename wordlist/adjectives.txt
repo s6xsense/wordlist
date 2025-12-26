@@ -2052,7 +2052,6 @@ allpervading
 allpervasive
 allpowerful
 allround
-allstar
 allsufficient
 alltime
 alltoo
@@ -5153,7 +5152,6 @@ atelic
 atelier
 atellan
 atemporal
-ater
 aterial
 aterian
 atest
@@ -39311,7 +39309,6 @@ ingres
 ingress
 ingressive
 ingrian
-ingrid
 inground
 ingroup
 ingrowing
@@ -48465,8 +48462,6 @@ manse
 mansfield
 mansi
 manslaughter
-manson
-mansour
 mansur
 mant
 manta
@@ -94771,7 +94766,6 @@ xanthomatous
 xanthurenic
 xas
 xavante
-xavier
 xbal
 xbar
 xbase
@@ -94818,7 +94812,6 @@ xia
 xiamen
 xian
 xiang
-xiao
 xid
 xie
 xii
@@ -94831,7 +94824,6 @@ xin
 xinetd
 xing
 xinhua
-xinjiang
 xiong
 xiphisternal
 xiphoid
