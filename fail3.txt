@@ -2,12 +2,5 @@ Global Failed Words List
 ========================
 Date: 2025-12-26
 
-[17:28:49] Player: hubhub1337 | Word: ashley
-[17:29:49] Player: hubhub1337 | Word: erskine
-[17:30:34] Player: hubhub1337 | Word: iness
-[17:30:36] Player: hubhub1337 | Word: inessa
-[17:30:39] Player: hubhub1337 | Word: ineson
-[17:31:29] Player: hubhub1337 | Word: erste
-[17:31:31] Player: hubhub1337 | Word: erster
-[17:31:33] Player: hubhub1337 | Word: erso
-[17:33:05] Player: hubhub1337 | Word: riemann
+[18:01:57] Player: hubhub1337 | Word: ones
+[18:01:59] Player: hubhub1337 | Word: oneself

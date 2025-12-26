@@ -12,6 +12,8 @@ inglis
 ingrid
 manson
 mansour
+ones
+oneself
 riemann
 xavier
 xiao
