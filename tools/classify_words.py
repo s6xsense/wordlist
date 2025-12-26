@@ -47,10 +47,11 @@ def main():
         'adjectives': set(),
         'adverbs': set(),
         'pronouns': set(),
+        'conjunctions': set(),
         'uncategorized': set()
     }
     
-    # Common English Pronouns list to help classification (NLTK tagger can be tricky with single words)
+    # Common English Pronouns list
     PRONOUNS_LIST = {
         'i', 'me', 'my', 'mine', 'myself',
         'we', 'us', 'our', 'ours', 'ourselves',
@@ -69,6 +70,29 @@ def main():
         'all', 'any', 'most', 'none', 'some'
     }
 
+    # Common Conjunctions & Prepositions list (often tagged as IN/CC in NLTK)
+    CONJUNCTIONS_LIST = {
+        'and', 'but', 'or', 'nor', 'for', 'yet', 'so',
+        'after', 'although', 'as', 'because', 'before',
+        'even', 'if', 'lest', 'once', 'only', 'since',
+        'than', 'that', 'though', 'till', 'unless',
+        'until', 'when', 'whenever', 'where', 'whereas',
+        'wherever', 'whether', 'while',
+        'aboard', 'about', 'above', 'across', 'after', 'against',
+        'along', 'amid', 'among', 'anti', 'around', 'as',
+        'at', 'before', 'behind', 'below', 'beneath', 'beside',
+        'besides', 'between', 'beyond', 'but', 'by', 'concerning',
+        'considering', 'despite', 'down', 'during', 'except',
+        'excepting', 'excluding', 'following', 'for', 'from',
+        'in', 'inside', 'into', 'like', 'minus', 'near',
+        'of', 'off', 'on', 'onto', 'opposite', 'outside',
+        'over', 'past', 'per', 'plus', 'regarding', 'round',
+        'save', 'since', 'than', 'through', 'to', 'toward',
+        'towards', 'under', 'underneath', 'unlike', 'until',
+        'up', 'upon', 'versus', 'via', 'with', 'within', 'without',
+        'the', 'a', 'an' # Articles often end up here too
+    }
+
     count = 0
     for word in words:
         count += 1
@@ -79,18 +103,23 @@ def main():
         if word in PRONOUNS_LIST:
             categorized['pronouns'].add(word)
             continue
+            
+        # Check explicit conjunctions/prepositions list
+        if word in CONJUNCTIONS_LIST:
+            categorized['conjunctions'].add(word)
+            continue
 
         pos_set = get_wordnet_pos(word)
         
         if not pos_set:
             # Fallback: try nltk pos_tag for single word (heuristic)
-            # Note: pos_tag(['word']) often defaults to NN (Noun) if ambiguous
-            # But let's try.
             tags = nltk.pos_tag([word])
             tag = tags[0][1]
             
             if tag in ['PRP', 'PRP$', 'WP', 'WP$']: # Pronoun tags
                 categorized['pronouns'].add(word)
+            elif tag in ['CC', 'IN', 'DT', 'TO']: # Conjunction/Preposition/Determiner tags
+                categorized['conjunctions'].add(word)
             elif tag.startswith('N'):
                 pos_set.add('noun')
             elif tag.startswith('V'):
@@ -122,6 +151,7 @@ def main():
         'adjectives': 'adjectives.txt',
         'adverbs': 'adverbs.txt',
         'pronouns': 'pronouns.txt',
+        'conjunctions': 'conjunctions.txt',
         'uncategorized': 'others.txt'
     }
 

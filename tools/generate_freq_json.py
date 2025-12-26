@@ -98,28 +98,61 @@ def get_boosted_freq(word, pos_tag=None):
     # 1. Base Score
     score = get_freq_score(word)
     
-    # If score is already decent, keep it.
+    # If score is already decent (>5.0), keep it.
     if score > 5.0:
         return score
         
-    # 2. Try Lemmatization boost if score is low
+    # 2. Try Lemmatization boost (Standard NLTK)
+    potential_roots = set()
+    
     if pos_tag:
         try:
             lemma = lemmatizer.lemmatize(word, pos_tag)
             if lemma != word:
-                lemma_score = get_freq_score(lemma)
-                
-                # If lemma is significantly more common, inherit some of its score
-                if lemma_score > score:
-                    # Boost factor: Inflected forms are rarer than base forms.
-                    # We assume ~70% of the base form's popularity is a reasonable floor 
-                    # for a valid inflected form that just happens to be missing from freq list.
-                    boosted = lemma_score * 0.70
-                    if boosted > score:
-                        # print(f"Boosting '{word}' ({score}) -> ({boosted:.2f}) using lemma '{lemma}' ({lemma_score})")
-                        score = round(boosted, 2)
+                potential_roots.add(lemma)
         except Exception:
             pass
+            
+    # 3. Manual Suffix Stripping (Aggressive Heuristic)
+    # NLTK lemmatizer sometimes fails on simple suffix removal if POS tag isn't perfect
+    # or word is rare. We manually strip common suffixes to find a root candidate.
+    
+    suffixes = [
+        ('ing', ''), ('ing', 'e'),  # running -> run, making -> make
+        ('ed', ''), ('ed', 'e'),    # played -> play, liked -> like
+        ('s', ''),                  # cats -> cat
+        ('es', ''),                 # boxes -> box
+        ('er', ''), ('er', 'e'),    # player -> play, nicer -> nice
+        ('est', ''), ('est', 'e'),  # fastest -> fast
+        ('ly', ''),                 # quickly -> quick
+        ('ment', ''),               # amazement -> amaze
+        ('ness', ''),               # darkness -> dark
+        ('able', ''), ('able', 'e') # lovable -> love
+    ]
+    
+    for suffix, replacement in suffixes:
+        if word.endswith(suffix):
+            root_candidate = word[:-len(suffix)] + replacement
+            if len(root_candidate) > 2: # Avoid tiny roots like 'd' from 'doing'
+                potential_roots.add(root_candidate)
+                
+    # Check all potential roots
+    max_root_score = 0.0
+    best_root = None
+    
+    for root in potential_roots:
+        root_score = get_freq_score(root)
+        if root_score > max_root_score:
+            max_root_score = root_score
+            best_root = root
+            
+    # Apply boost if we found a good root
+    if max_root_score > score:
+        # Boost factor: 70% of root score
+        boosted = max_root_score * 0.70
+        if boosted > score:
+            # print(f"Deep Boost: '{word}' -> '{best_root}' ({max_root_score}) -> {boosted:.2f}")
+            score = round(boosted, 2)
             
     # Minimum floor for valid words
     if score == 0.0:

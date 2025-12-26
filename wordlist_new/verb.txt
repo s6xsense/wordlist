@@ -7719,7 +7719,6 @@ conceptualizes
 conceptualizing
 concern
 concerned
-concerning
 concerns
 concert
 concerted
@@ -8002,7 +8001,6 @@ conserves
 conserving
 consider
 considered
-considering
 considers
 consign
 consigned
@@ -12755,7 +12753,6 @@ dowering
 dowers
 dowing
 dowling
-down
 downcoming
 downcried
 downcrying
@@ -14849,7 +14846,6 @@ evaporates
 evaporating
 evaporize
 evected
-even
 evened
 evening
 evenminded
@@ -14946,9 +14942,7 @@ excel
 excelled
 excelling
 excels
-except
 excepted
-excepting
 excepts
 excerpt
 excerpted
@@ -14977,7 +14971,6 @@ exclave
 exclude
 excluded
 excludes
-excluding
 excogitate
 excogitated
 excogitates
@@ -16587,7 +16580,6 @@ folliculated
 follied
 follow
 followed
-following
 follows
 follying
 foment
@@ -23521,7 +23513,6 @@ lignifies
 lignify
 lignifying
 ligulated
-like
 liked
 likeminded
 liken
@@ -26457,7 +26448,6 @@ navigating
 nazifies
 nazify
 nazifying
-near
 neared
 nearing
 nears
@@ -27865,7 +27855,6 @@ odorizes
 odorizing
 odoured
 odylize
-off
 offaling
 offed
 offend
@@ -36077,7 +36066,6 @@ regambled
 regambling
 regard
 regarded
-regarding
 regards
 regathered
 regathering
@@ -38527,7 +38515,6 @@ roughtailed
 rouging
 rouletted
 rouletting
-round
 rounded
 rounding
 roundmouthed
@@ -39035,7 +39022,6 @@ savaged
 savages
 savaging
 savagize
-save
 saved
 saves
 saving
@@ -45424,7 +45410,6 @@ tiled
 tilemaking
 tiles
 tiling
-till
 tilled
 tiller
 tillered
@@ -48895,7 +48880,6 @@ unzipped
 unzipping
 unzips
 unzoning
-up
 uparching
 upbearing
 upbinding

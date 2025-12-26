@@ -92,8 +92,6 @@ abortional
 abortive
 aboulic
 abounding
-about
-above
 aboveboard
 aboveground
 abradable
@@ -928,7 +926,6 @@ african
 afrikaans
 afrikaner
 aft
-after
 aftermost
 afterpotential
 aftershafted
@@ -2319,7 +2316,6 @@ anthropotheistic
 anthropotomical
 anthypnotic
 anthypophoretic
-anti
 antiacademic
 antiaesthetic
 antiagglutinative
@@ -4523,7 +4519,6 @@ behavioural
 behaviourist
 beheaded
 behemothic
-behind
 behinder
 behindhand
 beholdable
@@ -10332,7 +10327,6 @@ dowdy
 doweral
 dowered
 dowerless
-down
 downcast
 downfield
 downhearted
@@ -12235,7 +12229,6 @@ evasional
 evasive
 evectic
 evectional
-even
 evener
 evenest
 evenhanded
@@ -13629,7 +13622,6 @@ folksy
 follicular
 folliculous
 followable
-following
 fond
 fonder
 fondest
@@ -17300,7 +17292,6 @@ impure
 imputable
 imputative
 imputrescible
-in
 inable
 inabordable
 inacceptable
@@ -18164,7 +18155,6 @@ inserviceable
 insessorial
 inseverable
 inshore
-inside
 insidious
 insightful
 insignificant
@@ -20136,7 +20126,6 @@ lessened
 lesser
 lessest
 lessive
-lest
 lestobiotic
 lestrigonian
 lethal
@@ -20312,7 +20301,6 @@ liguliflorous
 liguorian
 ligurian
 likable
-like
 likeable
 liked
 likeful
@@ -22105,7 +22093,6 @@ mint
 mintiest
 minty
 minuetic
-minus
 minuscular
 minuscule
 minute
@@ -23165,7 +23152,6 @@ neanderthal
 neanderthaler
 neanic
 neapolitan
-near
 nearable
 nearby
 nearctic
@@ -26607,7 +26593,6 @@ oenotrian
 oestrian
 oestrous
 oestrual
-off
 offbeat
 offenceless
 offendable
@@ -26775,7 +26760,6 @@ omosternal
 omphalogenous
 omphalopsychic
 omphalospinous
-on
 onagraceous
 onal
 onanistic
@@ -26798,7 +26782,6 @@ ongoing
 onirotic
 onliest
 online
-only
 onomasiological
 onomastic
 onomastical
@@ -26942,7 +26925,6 @@ opportunistic
 opposable
 opposed
 opposing
-opposite
 oppositiflorous
 oppositifolious
 oppositional
@@ -27389,7 +27371,6 @@ outregeous
 outrigged
 outright
 outrive
-outside
 outsize
 outsized
 outskirmish
@@ -27419,7 +27400,6 @@ ovationary
 ovatoconical
 ovatocylindraceous
 ovenful
-over
 overable
 overabstemious
 overabundant
@@ -28480,7 +28460,6 @@ passionary
 passionate
 passionless
 passive
-past
 pasted
 pastel
 pasteurian
@@ -30008,7 +29987,6 @@ plurispiral
 plurisporous
 plurisyllable
 plurivorous
-plus
 plush
 plusher
 plushest
@@ -33599,7 +33577,6 @@ roughhewn
 roughish
 roughshod
 roumanian
-round
 roundabout
 rounded
 rounder
@@ -39558,7 +39535,6 @@ thronal
 thronged
 throttleable
 throuch
-through
 throwaway
 throwback
 thrown
@@ -43096,7 +43072,6 @@ undeprived
 undepurated
 undeputed
 undeputized
-under
 underaccommodated
 underadmiral
 underage
@@ -46233,7 +46208,6 @@ unlighted
 unlightened
 unlignified
 unlikable
-unlike
 unlikeable
 unliked
 unlikely
@@ -50628,7 +50602,6 @@ unzealous
 unzen
 unzoned
 uous
-up
 upaithric
 upalong
 upanishadic

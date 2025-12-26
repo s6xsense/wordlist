@@ -1,0 +1,582 @@
+{
+  "aboard": {
+    "freq": 51.75,
+    "like": 77.4
+  },
+  "about": {
+    "freq": 80.0,
+    "like": 81.4
+  },
+  "above": {
+    "freq": 65.0,
+    "like": 83.98
+  },
+  "achamoth": {
+    "freq": 0.01,
+    "like": 81.43
+  },
+  "across": {
+    "freq": 65.62,
+    "like": 80.62
+  },
+  "after": {
+    "freq": 76.38,
+    "like": 76.53
+  },
+  "against": {
+    "freq": 71.0,
+    "like": 82.85
+  },
+  "aggadoth": {
+    "freq": 0.01,
+    "like": 71.63
+  },
+  "agoroth": {
+    "freq": 0.01,
+    "like": 78.27
+  },
+  "aguroth": {
+    "freq": 0.01,
+    "like": 78.59
+  },
+  "alamoth": {
+    "freq": 0.01,
+    "like": 81.26
+  },
+  "alembroth": {
+    "freq": 0.01,
+    "like": 80.16
+  },
+  "algaroth": {
+    "freq": 0.01,
+    "like": 73.02
+  },
+  "alioth": {
+    "freq": 13.0,
+    "like": 83.76
+  },
+  "aliyoth": {
+    "freq": 0.01,
+    "like": 52.01
+  },
+  "allamoth": {
+    "freq": 0.01,
+    "like": 81.77
+  },
+  "along": {
+    "freq": 67.25,
+    "like": 93.03
+  },
+  "alpaugh": {
+    "freq": 0.01,
+    "like": 71.84
+  },
+  "although": {
+    "freq": 66.25,
+    "like": 80.19
+  },
+  "amid": {
+    "freq": 49.38,
+    "like": 83.41
+  },
+  "among": {
+    "freq": 66.38,
+    "like": 90.06
+  },
+  "an": {
+    "freq": 81.62,
+    "like": 88.79
+  },
+  "and": {
+    "freq": 92.62,
+    "like": 90.69
+  },
+  "anti": {
+    "freq": 62.62,
+    "like": 80.34
+  },
+  "around": {
+    "freq": 72.12,
+    "like": 87.76
+  },
+  "as": {
+    "freq": 84.62,
+    "like": 88.65
+  },
+  "ashbaugh": {
+    "freq": 17.75,
+    "like": 70.27
+  },
+  "aswough": {
+    "freq": 0.01,
+    "like": 74.91
+  },
+  "at": {
+    "freq": 83.75,
+    "like": 89.14
+  },
+  "athrough": {
+    "freq": 0.01,
+    "like": 79.18
+  },
+  "attenborough": {
+    "freq": 35.88,
+    "like": 77.37
+  },
+  "augh": {
+    "freq": 25.5,
+    "like": 74.46
+  },
+  "azoth": {
+    "freq": 16.12,
+    "like": 71.2
+  },
+  "balaghat": {
+    "freq": 15.38,
+    "like": 85.27
+  },
+  "because": {
+    "freq": 75.38,
+    "like": 81.05
+  },
+  "before": {
+    "freq": 74.12,
+    "like": 85.06
+  },
+  "behind": {
+    "freq": 66.12,
+    "like": 81.92
+  },
+  "below": {
+    "freq": 63.12,
+    "like": 80.05
+  },
+  "beneath": {
+    "freq": 53.0,
+    "like": 84.54
+  },
+  "beside": {
+    "freq": 52.38,
+    "like": 85.61
+  },
+  "besides": {
+    "freq": 57.88,
+    "like": 87.77
+  },
+  "between": {
+    "freq": 72.12,
+    "like": 75.41
+  },
+  "beyond": {
+    "freq": 62.25,
+    "like": 79.36
+  },
+  "bhat": {
+    "freq": 28.12,
+    "like": 42.32
+  },
+  "bichat": {
+    "freq": 16.12,
+    "like": 87.38
+  },
+  "but": {
+    "freq": 82.88,
+    "like": 84.19
+  },
+  "by": {
+    "freq": 83.25,
+    "like": 82.03
+  },
+  "concerning": {
+    "freq": 53.87,
+    "like": 89.27
+  },
+  "considering": {
+    "freq": 58.0,
+    "like": 91.77
+  },
+  "despite": {
+    "freq": 62.5,
+    "like": 84.58
+  },
+  "down": {
+    "freq": 73.5,
+    "like": 75.55
+  },
+  "during": {
+    "freq": 71.5,
+    "like": 90.36
+  },
+  "even": {
+    "freq": 74.88,
+    "like": 84.52
+  },
+  "except": {
+    "freq": 62.75,
+    "like": 74.28
+  },
+  "excepting": {
+    "freq": 35.12,
+    "like": 83.02
+  },
+  "excluding": {
+    "freq": 49.0,
+    "like": 80.55
+  },
+  "following": {
+    "freq": 68.25,
+    "like": 87.97
+  },
+  "for": {
+    "freq": 87.62,
+    "like": 86.03
+  },
+  "from": {
+    "freq": 82.88,
+    "like": 78.48
+  },
+  "if": {
+    "freq": 80.88,
+    "like": 64.11
+  },
+  "in": {
+    "freq": 90.88,
+    "like": 88.89
+  },
+  "inside": {
+    "freq": 64.88,
+    "like": 85.02
+  },
+  "into": {
+    "freq": 76.38,
+    "like": 79.31
+  },
+  "lest": {
+    "freq": 44.25,
+    "like": 87.89
+  },
+  "like": {
+    "freq": 80.12,
+    "like": 76.7
+  },
+  "minus": {
+    "freq": 50.0,
+    "like": 85.43
+  },
+  "naboth": {
+    "freq": 17.25,
+    "like": 73.98
+  },
+  "near": {
+    "freq": 66.12,
+    "like": 78.63
+  },
+  "nebaioth": {
+    "freq": 0.01,
+    "like": 72.27
+  },
+  "neginoth": {
+    "freq": 0.01,
+    "like": 74.15
+  },
+  "nehiloth": {
+    "freq": 0.01,
+    "like": 71.24
+  },
+  "nonadept": {
+    "freq": 0.01,
+    "like": 75.08
+  },
+  "nor": {
+    "freq": 59.75,
+    "like": 74.64
+  },
+  "northborough": {
+    "freq": 19.12,
+    "like": 74.21
+  },
+  "of": {
+    "freq": 92.5,
+    "like": 59.16
+  },
+  "off": {
+    "freq": 74.12,
+    "like": 64.86
+  },
+  "oiltrough": {
+    "freq": 0.01,
+    "like": 72.25
+  },
+  "on": {
+    "freq": 86.38,
+    "like": 85.43
+  },
+  "once": {
+    "freq": 69.12,
+    "like": 84.48
+  },
+  "only": {
+    "freq": 76.5,
+    "like": 78.64
+  },
+  "onto": {
+    "freq": 59.62,
+    "like": 77.24
+  },
+  "opposite": {
+    "freq": 57.75,
+    "like": 79.62
+  },
+  "or": {
+    "freq": 81.75,
+    "like": 80.1
+  },
+  "orchat": {
+    "freq": 0.01,
+    "like": 81.84
+  },
+  "ough": {
+    "freq": 23.75,
+    "like": 76.17
+  },
+  "outborough": {
+    "freq": 0.01,
+    "like": 72.68
+  },
+  "outcept": {
+    "freq": 0.01,
+    "like": 71.24
+  },
+  "outcrept": {
+    "freq": 0.01,
+    "like": 72.24
+  },
+  "outkept": {
+    "freq": 0.01,
+    "like": 49.78
+  },
+  "outlaugh": {
+    "freq": 0.01,
+    "like": 72.92
+  },
+  "outside": {
+    "freq": 65.62,
+    "like": 79.91
+  },
+  "outslept": {
+    "freq": 0.01,
+    "like": 72.46
+  },
+  "outthrough": {
+    "freq": 0.01,
+    "like": 75.04
+  },
+  "outwept": {
+    "freq": 0.01,
+    "like": 70.51
+  },
+  "outwwept": {
+    "freq": 0.01,
+    "like": 46.51
+  },
+  "over": {
+    "freq": 76.0,
+    "like": 83.72
+  },
+  "overlaugh": {
+    "freq": 0.01,
+    "like": 75.66
+  },
+  "overrough": {
+    "freq": 0.01,
+    "like": 79.43
+  },
+  "overslaugh": {
+    "freq": 0.01,
+    "like": 75.35
+  },
+  "past": {
+    "freq": 67.0,
+    "like": 86.7
+  },
+  "per": {
+    "freq": 68.12,
+    "like": 88.76
+  },
+  "plus": {
+    "freq": 61.88,
+    "like": 84.68
+  },
+  "regarding": {
+    "freq": 58.38,
+    "like": 84.84
+  },
+  "round": {
+    "freq": 64.25,
+    "like": 86.71
+  },
+  "save": {
+    "freq": 64.25,
+    "like": 82.23
+  },
+  "since": {
+    "freq": 71.88,
+    "like": 88.79
+  },
+  "so": {
+    "freq": 81.5,
+    "like": 71.08
+  },
+  "than": {
+    "freq": 76.62,
+    "like": 86.66
+  },
+  "the": {
+    "freq": 96.62,
+    "like": 86.19
+  },
+  "though": {
+    "freq": 68.75,
+    "like": 80.84
+  },
+  "through": {
+    "freq": 73.38,
+    "like": 76.91
+  },
+  "till": {
+    "freq": 59.88,
+    "like": 84.32
+  },
+  "to": {
+    "freq": 92.88,
+    "like": 69.12
+  },
+  "toward": {
+    "freq": 59.0,
+    "like": 82.14
+  },
+  "towards": {
+    "freq": 63.25,
+    "like": 80.39
+  },
+  "ugh": {
+    "freq": 52.75,
+    "like": 71.71
+  },
+  "unborough": {
+    "freq": 0.01,
+    "like": 72.45
+  },
+  "under": {
+    "freq": 71.62,
+    "like": 82.32
+  },
+  "underbough": {
+    "freq": 0.01,
+    "like": 75.83
+  },
+  "underneath": {
+    "freq": 51.0,
+    "like": 80.26
+  },
+  "unlaugh": {
+    "freq": 0.01,
+    "like": 67.74
+  },
+  "unless": {
+    "freq": 62.25,
+    "like": 75.93
+  },
+  "unlike": {
+    "freq": 57.12,
+    "like": 68.2
+  },
+  "unplough": {
+    "freq": 0.01,
+    "like": 66.85
+  },
+  "unrough": {
+    "freq": 0.01,
+    "like": 66.45
+  },
+  "unthorough": {
+    "freq": 0.01,
+    "like": 81.27
+  },
+  "until": {
+    "freq": 70.12,
+    "like": 81.53
+  },
+  "untough": {
+    "freq": 0.01,
+    "like": 77.78
+  },
+  "up": {
+    "freq": 79.88,
+    "like": 63.36
+  },
+  "upon": {
+    "freq": 64.0,
+    "like": 79.85
+  },
+  "upplough": {
+    "freq": 0.01,
+    "like": 75.23
+  },
+  "usquebaugh": {
+    "freq": 0.01,
+    "like": 66.76
+  },
+  "versus": {
+    "freq": 54.0,
+    "like": 86.28
+  },
+  "via": {
+    "freq": 62.75,
+    "like": 71.74
+  },
+  "when": {
+    "freq": 79.62,
+    "like": 84.6
+  },
+  "whenever": {
+    "freq": 57.88,
+    "like": 84.29
+  },
+  "where": {
+    "freq": 75.0,
+    "like": 87.79
+  },
+  "whereas": {
+    "freq": 55.12,
+    "like": 86.74
+  },
+  "wherever": {
+    "freq": 53.37,
+    "like": 86.64
+  },
+  "whether": {
+    "freq": 66.5,
+    "like": 82.68
+  },
+  "while": {
+    "freq": 73.25,
+    "like": 82.87
+  },
+  "with": {
+    "freq": 85.62,
+    "like": 82.11
+  },
+  "within": {
+    "freq": 68.0,
+    "like": 86.99
+  },
+  "without": {
+    "freq": 71.12,
+    "like": 83.83
+  },
+  "yet": {
+    "freq": 69.25,
+    "like": 65.2
+  }
+}

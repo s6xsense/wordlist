@@ -20,15 +20,12 @@ ablatively
 ableptically
 ably
 abnormally
-aboard
 abominably
 aborad
 aborally
 aboriginally
 abortively
 aboundingly
-about
-above
 aboveboard
 abrasively
 abreast
@@ -116,7 +113,6 @@ acronychally
 acronymically
 acropetally
 acrophonically
-across
 acrostically
 actinally
 actinically
@@ -242,7 +238,6 @@ afield
 afoot
 afresh
 aft
-after
 aftersong
 afterward
 afterwards
@@ -352,7 +347,6 @@ aloft
 alogically
 alone
 alonely
-along
 alongside
 aloof
 aloud
@@ -786,7 +780,6 @@ arly
 armlessly
 armorially
 aromatically
-around
 arrantly
 arrestingly
 arrhythmically
@@ -808,7 +801,6 @@ artistically
 artlessly
 artly
 arythmically
-as
 asap
 asaphus
 ascalaphus
@@ -1119,7 +1111,6 @@ beerbelly
 beerily
 beerishly
 befittingly
-before
 beforehand
 beggingly
 begrudgingly
@@ -1127,7 +1118,6 @@ beguilingly
 behaviorally
 behavioristically
 behaviourally
-behind
 behindhand
 behoovefully
 behoovingly
@@ -1141,14 +1131,12 @@ belike
 belikely
 bellicosely
 belligerently
-below
 belvidere
 bely
 belyingly
 bemoaningly
 bemusedly
 bendingly
-beneath
 benedictively
 beneficently
 beneficially
@@ -1164,7 +1152,6 @@ bergere
 bersagliere
 beseechingly
 beseemingly
-besides
 besiegingly
 besottedly
 besottingly
@@ -1174,7 +1161,6 @@ besully
 betimes
 better
 betterly
-between
 betwixt
 beverly
 bewailingly
@@ -1182,7 +1168,6 @@ bewilderedly
 bewilderingly
 bewitchingly
 bewrayingly
-beyond
 biannually
 biasedly
 biassedly
@@ -1497,13 +1482,11 @@ burntly
 bushily
 busily
 bustlingly
-but
 buttermere
 butyrically
 buxomly
 buzzardly
 buzzingly
-by
 byously
 byronically
 cabalistically
@@ -3230,7 +3213,6 @@ doven
 dowdily
 dowily
 dowly
-down
 downcastly
 downfield
 downheartedly
@@ -3771,7 +3753,6 @@ evangely
 evaporatively
 evasively
 evelong
-even
 evenhandedly
 evenlong
 evenly
@@ -5476,7 +5457,6 @@ impurely
 imputably
 imputatively
 imputedly
-in
 inabusively
 inaccessibly
 inaccordantly
@@ -5857,7 +5837,6 @@ inseparably
 inseparately
 inseverably
 inshore
-inside
 insidiously
 insightfully
 insignificantly
@@ -7376,7 +7355,6 @@ nayward
 nazard
 nazarite
 nazirite
-near
 nearaway
 nearby
 nearer
@@ -9033,7 +9011,6 @@ odoriferously
 odorlessly
 odorously
 oedipally
-off
 offencelessly
 offendedly
 offenselessly
@@ -9077,15 +9054,12 @@ omnipotently
 omnipresently
 omnisciently
 omnivorously
-on
 onaway
-once
 oncosphere
 oneirocritically
 onerously
 onewhere
 ong
-only
 onomatologically
 onomatopoeically
 onomatopoetically
@@ -9124,7 +9098,6 @@ opinionatively
 opportunely
 opportunistically
 opposingly
-opposite
 oppositely
 oppositively
 oppressively
@@ -9226,7 +9199,6 @@ outregeously
 outright
 outrightly
 outsally
-outside
 outspokenly
 outstandingly
 outstriven
@@ -9241,7 +9213,6 @@ ovally
 ovately
 ovatooblong
 ovenly
-over
 overably
 overabstemiously
 overabundantly
@@ -9825,7 +9796,6 @@ passionately
 passionfully
 passionlessly
 passively
-past
 pastorally
 pastorly
 pat
@@ -11595,7 +11565,6 @@ rotundly
 rough
 roughishly
 roughly
-round
 roundaboutly
 roundedly
 roundly
@@ -12445,7 +12414,6 @@ snufflingly
 snuggly
 snugly
 snurly
-so
 soaking
 soakingly
 soally
@@ -13834,7 +13802,6 @@ thoracically
 thornily
 thoroughgoingly
 thoroughly
-though
 thoughtfully
 thoughtlessly
 thousandfoldly
@@ -13857,7 +13824,6 @@ thromboplastically
 throngingly
 throroughly
 throttlingly
-through
 throughly
 throughout
 thuddingly
@@ -14902,7 +14868,6 @@ undependably
 undeprecatingly
 undeprecatively
 undepressively
-under
 underarm
 underdriven
 underfoot
@@ -14916,7 +14881,6 @@ underivedly
 underly
 underlyingly
 underminingly
-underneath
 underogatively
 undersally
 underscrupulously
@@ -16934,7 +16898,6 @@ unwwoven
 unyieldingly
 unyouthfully
 unzealously
-up
 upbraidingly
 upgully
 upheaven
@@ -17309,7 +17272,6 @@ wheezingly
 whence
 wherere
 wheresoever
-wherever
 whifflingly
 whiggishly
 whilere
@@ -17398,7 +17360,6 @@ withal
 witheredly
 witheringly
 witherly
-within
 witlessly
 witterly
 wittily
@@ -17500,7 +17461,6 @@ yepely
 yere
 yesterday
 yestereven
-yet
 yetty
 yeven
 yfere
