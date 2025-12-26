@@ -1,0 +1,254 @@
+{
+  "all": {
+    "freq": 81.5,
+    "like": 86.83
+  },
+  "any": {
+    "freq": 75.88,
+    "like": 84.09
+  },
+  "anybody": {
+    "freq": 57.0,
+    "like": 71.05
+  },
+  "anyone": {
+    "freq": 67.25,
+    "like": 79.29
+  },
+  "anything": {
+    "freq": 69.38,
+    "like": 80.9
+  },
+  "both": {
+    "freq": 72.38,
+    "like": 80.43
+  },
+  "each": {
+    "freq": 71.12,
+    "like": 80.88
+  },
+  "either": {
+    "freq": 66.62,
+    "like": 77.36
+  },
+  "everybody": {
+    "freq": 60.5,
+    "like": 75.07
+  },
+  "everyone": {
+    "freq": 68.38,
+    "like": 81.93
+  },
+  "everything": {
+    "freq": 69.25,
+    "like": 82.76
+  },
+  "few": {
+    "freq": 70.0,
+    "like": 73.38
+  },
+  "he": {
+    "freq": 83.62,
+    "like": 86.44
+  },
+  "her": {
+    "freq": 78.75,
+    "like": 85.96
+  },
+  "hers": {
+    "freq": 49.62,
+    "like": 88.23
+  },
+  "herself": {
+    "freq": 59.75,
+    "like": 75.06
+  },
+  "him": {
+    "freq": 76.38,
+    "like": 76.57
+  },
+  "himself": {
+    "freq": 65.62,
+    "like": 69.02
+  },
+  "his": {
+    "freq": 81.38,
+    "like": 87.41
+  },
+  "it": {
+    "freq": 86.88,
+    "like": 81.97
+  },
+  "its": {
+    "freq": 76.75,
+    "like": 83.74
+  },
+  "itself": {
+    "freq": 63.75,
+    "like": 70.61
+  },
+  "many": {
+    "freq": 73.88,
+    "like": 85.0
+  },
+  "me": {
+    "freq": 81.0,
+    "like": 89.65
+  },
+  "mine": {
+    "freq": 63.0,
+    "like": 89.1
+  },
+  "most": {
+    "freq": 75.0,
+    "like": 82.72
+  },
+  "my": {
+    "freq": 82.12,
+    "like": 79.73
+  },
+  "myself": {
+    "freq": 66.38,
+    "like": 65.23
+  },
+  "neither": {
+    "freq": 59.62,
+    "like": 75.95
+  },
+  "nobody": {
+    "freq": 61.88,
+    "like": 69.36
+  },
+  "none": {
+    "freq": 61.62,
+    "like": 79.42
+  },
+  "nothing": {
+    "freq": 69.38,
+    "like": 83.31
+  },
+  "one": {
+    "freq": 80.88,
+    "like": 84.71
+  },
+  "our": {
+    "freq": 76.75,
+    "like": 81.07
+  },
+  "ours": {
+    "freq": 52.0,
+    "like": 84.32
+  },
+  "ourselves": {
+    "freq": 57.75,
+    "like": 82.42
+  },
+  "several": {
+    "freq": 67.38,
+    "like": 87.93
+  },
+  "she": {
+    "freq": 78.25,
+    "like": 87.78
+  },
+  "some": {
+    "freq": 77.5,
+    "like": 85.27
+  },
+  "somebody": {
+    "freq": 60.0,
+    "like": 74.78
+  },
+  "someone": {
+    "freq": 70.38,
+    "like": 79.19
+  },
+  "something": {
+    "freq": 72.62,
+    "like": 87.46
+  },
+  "that": {
+    "freq": 87.62,
+    "like": 86.87
+  },
+  "their": {
+    "freq": 79.12,
+    "like": 72.5
+  },
+  "theirs": {
+    "freq": 49.5,
+    "like": 76.05
+  },
+  "them": {
+    "freq": 77.38,
+    "like": 79.42
+  },
+  "themselves": {
+    "freq": 64.5,
+    "like": 80.56
+  },
+  "these": {
+    "freq": 75.5,
+    "like": 86.67
+  },
+  "they": {
+    "freq": 81.25,
+    "like": 80.62
+  },
+  "this": {
+    "freq": 85.25,
+    "like": 87.02
+  },
+  "those": {
+    "freq": 73.75,
+    "like": 82.44
+  },
+  "us": {
+    "freq": 75.5,
+    "like": 81.83
+  },
+  "we": {
+    "freq": 81.75,
+    "like": 84.93
+  },
+  "what": {
+    "freq": 79.75,
+    "like": 85.12
+  },
+  "which": {
+    "freq": 78.75,
+    "like": 82.68
+  },
+  "who": {
+    "freq": 79.25,
+    "like": 73.9
+  },
+  "whom": {
+    "freq": 60.62,
+    "like": 79.32
+  },
+  "whose": {
+    "freq": 63.38,
+    "like": 80.98
+  },
+  "you": {
+    "freq": 87.25,
+    "like": 51.39
+  },
+  "your": {
+    "freq": 81.62,
+    "like": 70.65
+  },
+  "yours": {
+    "freq": 59.38,
+    "like": 75.09
+  },
+  "yourself": {
+    "freq": 66.38,
+    "like": 67.76
+  },
+  "yourselves": {
+    "freq": 48.25,
+    "like": 77.56
+  }
+}

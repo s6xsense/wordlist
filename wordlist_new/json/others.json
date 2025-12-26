@@ -1,0 +1,362 @@
+{
+  "achamoth": {
+    "freq": 0.01,
+    "like": 81.43
+  },
+  "against": {
+    "freq": 71.0,
+    "like": 82.85
+  },
+  "aggadoth": {
+    "freq": 0.01,
+    "like": 71.63
+  },
+  "agoroth": {
+    "freq": 0.01,
+    "like": 78.27
+  },
+  "aguroth": {
+    "freq": 0.01,
+    "like": 78.59
+  },
+  "alamoth": {
+    "freq": 0.01,
+    "like": 81.26
+  },
+  "alembroth": {
+    "freq": 0.01,
+    "like": 80.16
+  },
+  "algaroth": {
+    "freq": 0.01,
+    "like": 73.02
+  },
+  "alioth": {
+    "freq": 13.0,
+    "like": 83.76
+  },
+  "aliyoth": {
+    "freq": 0.01,
+    "like": 52.01
+  },
+  "allamoth": {
+    "freq": 0.01,
+    "like": 81.77
+  },
+  "alpaugh": {
+    "freq": 0.01,
+    "like": 71.84
+  },
+  "although": {
+    "freq": 66.25,
+    "like": 80.19
+  },
+  "amid": {
+    "freq": 49.38,
+    "like": 83.41
+  },
+  "among": {
+    "freq": 66.38,
+    "like": 90.06
+  },
+  "and": {
+    "freq": 92.62,
+    "like": 90.69
+  },
+  "ashbaugh": {
+    "freq": 17.75,
+    "like": 70.27
+  },
+  "aswough": {
+    "freq": 0.01,
+    "like": 74.91
+  },
+  "athrough": {
+    "freq": 0.01,
+    "like": 79.18
+  },
+  "attenborough": {
+    "freq": 35.88,
+    "like": 77.37
+  },
+  "augh": {
+    "freq": 25.5,
+    "like": 74.46
+  },
+  "azoth": {
+    "freq": 16.12,
+    "like": 71.2
+  },
+  "balaghat": {
+    "freq": 15.38,
+    "like": 85.27
+  },
+  "because": {
+    "freq": 75.38,
+    "like": 81.05
+  },
+  "bhat": {
+    "freq": 28.12,
+    "like": 42.32
+  },
+  "bichat": {
+    "freq": 16.12,
+    "like": 87.38
+  },
+  "could": {
+    "freq": 75.75,
+    "like": 85.49
+  },
+  "during": {
+    "freq": 71.5,
+    "like": 90.36
+  },
+  "for": {
+    "freq": 87.62,
+    "like": 86.03
+  },
+  "from": {
+    "freq": 82.88,
+    "like": 78.48
+  },
+  "how": {
+    "freq": 78.0,
+    "like": 78.79
+  },
+  "if": {
+    "freq": 80.88,
+    "like": 64.11
+  },
+  "into": {
+    "freq": 76.38,
+    "like": 79.31
+  },
+  "naboth": {
+    "freq": 17.25,
+    "like": 73.98
+  },
+  "nebaioth": {
+    "freq": 0.01,
+    "like": 72.27
+  },
+  "neginoth": {
+    "freq": 0.01,
+    "like": 74.15
+  },
+  "nehiloth": {
+    "freq": 0.01,
+    "like": 71.24
+  },
+  "nonadept": {
+    "freq": 0.01,
+    "like": 75.08
+  },
+  "nor": {
+    "freq": 59.75,
+    "like": 74.64
+  },
+  "northborough": {
+    "freq": 19.12,
+    "like": 74.21
+  },
+  "of": {
+    "freq": 92.5,
+    "like": 59.16
+  },
+  "oiltrough": {
+    "freq": 0.01,
+    "like": 72.25
+  },
+  "onto": {
+    "freq": 59.62,
+    "like": 77.24
+  },
+  "orchat": {
+    "freq": 0.01,
+    "like": 81.84
+  },
+  "ough": {
+    "freq": 23.75,
+    "like": 76.17
+  },
+  "ought": {
+    "freq": 54.37,
+    "like": 76.3
+  },
+  "outborough": {
+    "freq": 0.01,
+    "like": 72.68
+  },
+  "outcept": {
+    "freq": 0.01,
+    "like": 71.24
+  },
+  "outcrept": {
+    "freq": 0.01,
+    "like": 72.24
+  },
+  "outkept": {
+    "freq": 0.01,
+    "like": 49.78
+  },
+  "outlaugh": {
+    "freq": 0.01,
+    "like": 72.92
+  },
+  "outslept": {
+    "freq": 0.01,
+    "like": 72.46
+  },
+  "outthrough": {
+    "freq": 0.01,
+    "like": 75.04
+  },
+  "outwept": {
+    "freq": 0.01,
+    "like": 70.51
+  },
+  "outwwept": {
+    "freq": 0.01,
+    "like": 46.51
+  },
+  "overlaugh": {
+    "freq": 0.01,
+    "like": 75.66
+  },
+  "overrough": {
+    "freq": 0.01,
+    "like": 79.43
+  },
+  "overslaugh": {
+    "freq": 0.01,
+    "like": 75.35
+  },
+  "per": {
+    "freq": 68.12,
+    "like": 88.76
+  },
+  "shall": {
+    "freq": 62.88,
+    "like": 86.77
+  },
+  "should": {
+    "freq": 74.88,
+    "like": 82.9
+  },
+  "since": {
+    "freq": 71.88,
+    "like": 88.79
+  },
+  "than": {
+    "freq": 76.62,
+    "like": 86.66
+  },
+  "the": {
+    "freq": 96.62,
+    "like": 86.19
+  },
+  "to": {
+    "freq": 92.88,
+    "like": 69.12
+  },
+  "toward": {
+    "freq": 59.0,
+    "like": 82.14
+  },
+  "ugh": {
+    "freq": 52.75,
+    "like": 71.71
+  },
+  "unborough": {
+    "freq": 0.01,
+    "like": 72.45
+  },
+  "underbough": {
+    "freq": 0.01,
+    "like": 75.83
+  },
+  "unlaugh": {
+    "freq": 0.01,
+    "like": 67.74
+  },
+  "unless": {
+    "freq": 62.25,
+    "like": 75.93
+  },
+  "unplough": {
+    "freq": 0.01,
+    "like": 66.85
+  },
+  "unrough": {
+    "freq": 0.01,
+    "like": 66.45
+  },
+  "unthorough": {
+    "freq": 0.01,
+    "like": 81.27
+  },
+  "until": {
+    "freq": 70.12,
+    "like": 81.53
+  },
+  "untough": {
+    "freq": 0.01,
+    "like": 77.78
+  },
+  "upon": {
+    "freq": 64.0,
+    "like": 79.85
+  },
+  "upplough": {
+    "freq": 0.01,
+    "like": 75.23
+  },
+  "usquebaugh": {
+    "freq": 0.01,
+    "like": 66.76
+  },
+  "via": {
+    "freq": 62.75,
+    "like": 71.74
+  },
+  "waterchat": {
+    "freq": 0.01,
+    "like": 86.33
+  },
+  "when": {
+    "freq": 79.62,
+    "like": 84.6
+  },
+  "where": {
+    "freq": 75.0,
+    "like": 87.79
+  },
+  "whether": {
+    "freq": 66.5,
+    "like": 82.68
+  },
+  "with": {
+    "freq": 85.62,
+    "like": 82.11
+  },
+  "without": {
+    "freq": 71.12,
+    "like": 83.83
+  },
+  "wo": {
+    "freq": 46.25,
+    "like": 70.83
+  },
+  "woodchat": {
+    "freq": 0.01,
+    "like": 72.3
+  },
+  "woolhat": {
+    "freq": 0.01,
+    "like": 70.66
+  },
+  "would": {
+    "freq": 78.38,
+    "like": 80.34
+  }
+}
